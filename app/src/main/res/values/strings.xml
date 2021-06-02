@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CrewDetails</string>
+    <string name="CREW_NAME">name</string>
+    <string name="CREW_AGENCY">agency</string>
+    <string name="CREW_STATUS">status</string>
+    <string name="CREW_IMAGE_URL">imageUrl</string>
+    <string name="CREW_WIKI_URL">wikiUrl</string>
+    <string name="wikiString"> <u>Click</u> for more details</string>
+</resources>
