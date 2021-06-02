@@ -136,7 +136,7 @@ public final class QueryUtils {
         catch (ProtocolException e) {
             //  Log.e(LOG_TAG,"Request Method isnt valid for HTTP",e);
         }catch (IOException e) {
-            // TODO: Handle the exception
+
             // Log.e(LOG_TAG,"Problem from reading input Stream",e);
         }
 
